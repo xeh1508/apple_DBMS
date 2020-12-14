@@ -12,6 +12,6 @@ Features of this app:
     - Save tables: Save a store sales summary table to the database.
     - Update existing tables: Rename table, rename column, add column
     - Create new tables: Table and column names can be customized. Provide 4 types of column to be added - integer, float, varchar(255), and boolean. 
-    - Create entries to table:  Show columns and their types based on the selected table.
+    - Create entries to table:  Prompt columns and their types based on the selected table.
     - Delete tables: the action is only accessible to specific authorization level.
 4. Robustness: Constraints are set for all the input table and colunm names to ensure the smooth execution of sql queries. Once errors are detected, prompt messages will show up suggesting possible failure reasons. 
