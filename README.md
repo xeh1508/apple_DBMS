@@ -1,6 +1,6 @@
-# apple_DBMS
+# Apple Database Management System
 
-About this app:
+About this Shiny app:
 
 As a sequal to Apple Sales Dashboard, this Shiny app simulates a database management system featuring functions like login/logout, save/create/delete tables, add/rename columns, etc. These two apps compare the roles between data analysts and database administrators, and both showcase the rich and varied functionality of Shiny app.
 
