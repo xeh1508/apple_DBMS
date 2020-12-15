@@ -14,4 +14,4 @@ Features of this app:
     - Create new tables: table and column names can be customized. Provide 4 types of column to be added - integer, float, varchar(255), and boolean. 
     - Create entries to tables:  prompt columns contained in the selected table together with their types.
     - Delete tables: the action is only accessible to specific authorization.
-4. Robustness: Constraints are set for all the input table and colunm names to ensure the smooth execution of sql queries. Once errors are detected, prompt messages will show up suggesting possible failure reasons. 
+4. Robustness: Defense mechanism that prevents duplicates, invalid expressions, and conflicts with SQL keywords are set for all the input table and colunm names to ensure the smooth execution of SQL queries. Once errors are detected, prompt messages will show up suggesting possible failure reasons. 
